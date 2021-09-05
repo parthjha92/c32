@@ -1,2 +1,2 @@
-# c42
-do cking and undocking
+# zombie-crush-2
+project solution for c30
